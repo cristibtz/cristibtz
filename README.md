@@ -20,16 +20,3 @@ Sharing my progress in coding apps throughout the years of university.
 | [CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619) | Script to exploit CVE-2025-49619 in Skyvern, executing a reverse shell command. | Python |
 | [NetAudit-App](https://github.com/cristibtz/NetAudit-App) | Network tools accessible through a web interface. | Python |
 | [CTF-cheatsheet](https://github.com/cristibtz/CTF-cheatsheet) | Commands I often use in boot2root challenges. | - |
-
-## 📈 GitHub Stats
-
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristibtz&show_icons=true&theme=radical)
-
-## 💬 Connect with Me
-
-- Blog: [blog.cristianbranet.com](https://blog.cristianbranet.com)
-- GitHub: [cristibtz](https://github.com/cristibtz)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cristibtz)
