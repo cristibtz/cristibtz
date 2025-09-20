@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Cristian Branet
 
-🎓 **Student & Developer**  
+🎓 **Student & IT enthusiast**  
 Sharing my progress in coding apps throughout the years of university.
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently learning and building new apps as I advance through university.
-- 💡 I love experimenting with new technologies and sharing my journey.
-- 📚 Always striving to improve and deepen my programming skills.
-- 📝 I document my progress and insights on my [blog](https://blog.cristianbranet.com).
+- Currently learning and building new apps as I advance through university.
+- I love experimenting with new technologies and sharing my journey.
+- Always striving to improve and deepen my programming skills.
+- I document my progress and insights on my [blog](https://blog.cristianbranet.com).
 
 ## 🌟 Highlighted Projects
 
